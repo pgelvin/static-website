@@ -1,5 +1,7 @@
 # Build a Static Webpage
 The purpose of this repository is to demonstrate how to build a static webpage using github pages and plotly.
+My example can be found here:
+https://github.com/pgelvin/static-website.git
 
 You can view this repo as a static web page here: https://plotly-dash-apps.github.io/101-static-website-example/
 The notebook create-html-plots.ipynb can be used to produce the html files located in the /docs folder.
